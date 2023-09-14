@@ -1,0 +1,30 @@
+[
+    {
+        "build_number": "#54",
+        "build_status": "Success",
+        "build_timestamp": "Sep 12, 2023, 12:37 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#54/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/54/PATSReport/"
+    },
+    {
+        "build_number": "#53",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 12, 2023, 12:05 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#53/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/53/PATSReport/"
+    },
+    {
+        "build_number": "#52",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 12, 2023, 11:32 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#52/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/52/PATSReport/"
+    },
+    {
+        "build_number": "#48",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 12, 2023, 9:14 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#48/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/48/PATSReport/"
+    }
+]

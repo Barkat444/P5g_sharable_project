@@ -1,0 +1,242 @@
+[
+    {
+        "build_number": "#214 @AMF-SMF-localPolGBR-SOT",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 12, 2023 8:42 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/214/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/214/PATSReport"
+    },
+    {
+        "build_number": "#207 @AMF-SMF-localPolGBR",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 12, 2023 6:26 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/207/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/207/PATSReport"
+    },
+    {
+        "build_number": "#205 @AMF-SMF-localPolGBR",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 12, 2023 5:54 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/205/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/205/PATSReport"
+    },
+    {
+        "build_number": "#204 @localPol-GBR-008",
+        "build_status": "Success",
+        "build_timestamp": "Sep 11, 2023 2:47 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/204/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/204/PATSReport"
+    },
+    {
+        "build_number": "#203 @localPol-GBR-008",
+        "build_status": "Success",
+        "build_timestamp": "Sep 11, 2023 2:34 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/203/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/203/PATSReport"
+    },
+    {
+        "build_number": "#188 @AMF-SMF-localPolGBR",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 8, 2023 3:33 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/188/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/188/PATSReport"
+    },
+    {
+        "build_number": "#169 @AMF-SMF-localPolGBR",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 8, 2023 6:49 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/169/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/169/PATSReport"
+    },
+    {
+        "build_number": "#164 @AMF-SMF-localPolGBR",
+        "build_status": "Success",
+        "build_timestamp": "Sep 5, 2023 1:41 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/164/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/164/PATSReport"
+    },
+    {
+        "build_number": "#163 @AMF-SMF-localPolGBR",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 5, 2023 1:08 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/163/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/163/PATSReport"
+    },
+    {
+        "build_number": "#160 @AMF-SMF-localPolGBR",
+        "build_status": "Success",
+        "build_timestamp": "Sep 5, 2023 12:03 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/160/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/160/PATSReport"
+    },
+    {
+        "build_number": "#157 @AMF-SMF-localPolGBR",
+        "build_status": "Success",
+        "build_timestamp": "Sep 5, 2023 5:42 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/157/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/157/PATSReport"
+    },
+    {
+        "build_number": "#156 @AMF-SMF-localPolGBR",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 4, 2023 11:52 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/156/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/156/PATSReport"
+    },
+    {
+        "build_number": "#155 @AMF-SMF-localPolGBR",
+        "build_status": "Success",
+        "build_timestamp": "Sep 4, 2023 10:50 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/155/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/155/PATSReport"
+    },
+    {
+        "build_number": "#142 @localPol-GBR-001",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 4, 2023 4:59 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/142/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/142/PATSReport"
+    },
+    {
+        "build_number": "#141 @localPol-GBR-001",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 1, 2023 12:53 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/141/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/141/PATSReport"
+    },
+    {
+        "build_number": "#139 @localPol-GBR-001",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 1, 2023 8:00 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/139/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/139/PATSReport"
+    },
+    {
+        "build_number": "#135 @Log",
+        "build_status": "Aborted",
+        "build_timestamp": "Aug 31, 2023 3:54 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/135/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/135/PATSReport"
+    },
+    {
+        "build_number": "#134 @localPol-GBR-001",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 31, 2023 9:08 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/134/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/134/PATSReport"
+    },
+    {
+        "build_number": "#132 @localPol-GBR-001",
+        "build_status": "Success",
+        "build_timestamp": "Aug 31, 2023 6:25 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/132/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/132/PATSReport"
+    },
+    {
+        "build_number": "#109 @localPol-GBR-001",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 30, 2023 7:48 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/109/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/109/PATSReport"
+    },
+    {
+        "build_number": "#108 @AMF-SMF-DedBr-PDU",
+        "build_status": "Success",
+        "build_timestamp": "Aug 30, 2023 6:10 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/108/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/108/PATSReport"
+    },
+    {
+        "build_number": "#107 @AMF-SMF-Attach-IVT",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 30, 2023 5:49 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/107/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/107/PATSReport"
+    },
+    {
+        "build_number": "#106 @AMF-SMF-DedBr-PDU",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 30, 2023 5:38 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/106/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/106/PATSReport"
+    },
+    {
+        "build_number": "#105 @AMF-SMF-DedBr-PDU",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 30, 2023 5:21 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/105/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/105/PATSReport"
+    },
+    {
+        "build_number": "#104 @N2HO-DFT-AMF-SMF",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 24, 2023 10:56 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/104/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/104/PATSReport"
+    },
+    {
+        "build_number": "#103 @N2HO-DFT-AMF-SMF",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 24, 2023 10:42 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/103/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/103/PATSReport"
+    },
+    {
+        "build_number": "#102 @N2HO-DFT-AMF-SMF",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 24, 2023 10:35 AM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/102/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/102/PATSReport"
+    },
+    {
+        "build_number": "#101 @Xn-HO-AMF",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 21, 2023 8:21 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/101/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/101/PATSReport"
+    },
+    {
+        "build_number": "#100 @Xn-HO-AMF",
+        "build_status": "Failed",
+        "build_timestamp": "Aug 21, 2023 8:05 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/100/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/100/PATSReport"
+    },
+    {
+        "build_number": "#99 @AMF-SMF-DedBr-PDU",
+        "build_status": "Success",
+        "build_timestamp": "Aug 21, 2023 7:56 PM",
+        "build_description": "No Items Received",
+        "build_link": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/99/console",
+        "pats_report": "https://pats-patsexecutor.10.84.124.79.nip.io/job/Functional-Scenarios/99/PATSReport"
+    }
+]

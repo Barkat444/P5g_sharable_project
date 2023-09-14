@@ -1,0 +1,44 @@
+[
+    {
+        "build_number": "#110",
+        "build_status": "Success",
+        "build_timestamp": "Sep 13, 2023, 9:06 AM",
+        "build_link": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/#110/",
+        "pats_report": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/110/PATSReport/"
+    },
+    {
+        "build_number": "#109",
+        "build_status": "Success",
+        "build_timestamp": "Sep 13, 2023, 9:01 AM",
+        "build_link": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/#109/",
+        "pats_report": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/109/PATSReport/"
+    },
+    {
+        "build_number": "#108",
+        "build_status": "Success",
+        "build_timestamp": "Sep 13, 2023, 7:37 AM",
+        "build_link": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/#108/",
+        "pats_report": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/108/PATSReport/"
+    },
+    {
+        "build_number": "#107",
+        "build_status": "Success",
+        "build_timestamp": "Sep 12, 2023, 2:45 PM",
+        "build_link": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/#107/",
+        "pats_report": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/107/PATSReport/"
+    },
+    {
+        "build_number": "#106",
+        "build_status": "Success",
+        "build_timestamp": "Sep 12, 2023, 10:45 AM",
+        "build_link": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/#106/",
+        "pats_report": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/106/PATSReport/"
+    },
+    {
+        "build_number": "#105",
+        "build_status": "Success",
+        "build_timestamp": "Sep 12, 2023, 9:24 AM",
+        "build_link": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/#105/",
+        "pats_report": "http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/105/PATSReport/"
+    }
+]
