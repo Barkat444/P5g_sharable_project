@@ -464,6 +464,10 @@ def extract_build_data_functional():
             build_status = build_status_element['alt']
             build_status = build_status.replace(" > Console Output", "")
             build_data['build_status'] = build_status
+            
+            # Add failure_cause field when build status is Failed
+            if build_status == 'Failed':
+                build_data['failure_cause'] = 'Failure Cause Here'  # Replace with the actual cause
         else:
             build_data['build_status'] = 'Aborted'
         build_details_element = row.find('div', class_='pane build-details')
@@ -510,6 +514,7 @@ def extract_build_data_regression():
             build_status_tooltip = build_status_element['tooltip']
             if 'Failed' in build_status_tooltip:
                 build_data['build_status'] = 'Failed'
+                build_data['failure_cause'] = 'Failure Cause Here'
             elif 'Success' in build_status_tooltip:
                 build_data['build_status'] = 'Success'
             else:
@@ -548,6 +553,7 @@ def extract_build_data_system():
             build_status_tooltip = build_status_element['tooltip']
             if 'Failed' in build_status_tooltip:
                 build_data['build_status'] = 'Failed'
+                build_data['failure_cause'] = 'Failure Cause'
             elif 'Success' in build_status_tooltip:
                 build_data['build_status'] = 'Success'
             else:

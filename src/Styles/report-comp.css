@@ -20,6 +20,11 @@
   position: relative;
 }
 
+.failure-cause {
+  font-size: larger; 
+  color: red;
+}
+
 
 .report-card:hover {
   transform: scale(1.05);

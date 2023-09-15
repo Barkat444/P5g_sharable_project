@@ -561,6 +561,9 @@ function Reports() {
                 <a href={item.pats_report} target="_blank" rel="noopener noreferrer">
                   PATS Report
                 </a>
+                {item.build_status === "Failed" && item.failure_cause && (
+        <p className="failure-cause">{item.failure_cause}</p>
+      )}
               </div>
             ))}
 
@@ -576,6 +579,9 @@ function Reports() {
                 <a href={item.pats_report} target="_blank" rel="noopener noreferrer">
                   PATS Report
                 </a>
+                {item.build_status === "Failed" && item.failure_cause && (
+        <p className="failure-cause">{item.failure_cause}</p>
+      )}
               </div>
             ))}
 
@@ -591,6 +597,9 @@ function Reports() {
                 <a href={item.pats_report} target="_blank" rel="noopener noreferrer">
                   PATS Report
                 </a>
+                {item.build_status === "Failed" && item.failure_cause && (
+        <p className="failure-cause">{item.failure_cause}</p>
+      )}
               </div>
             ))}
         </>
