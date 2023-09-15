@@ -439,7 +439,7 @@ NAT_IP = sys.argv[1]
 
 # Define Jenkins credentials and URLs
 jenkins_url_functional = f'https://pats-patsexecutor.{NAT_IP}.nip.io/job/Functional-Scenarios/'
-jenkins_url_regression = 'http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/'
+jenkins_url_regression = 'http://eig-jenkins.cisco.com:9500/job/P5G_Regression/'
 jenkins_url_deployment = 'http://eig-jenkins.cisco.com:7600/job/Deployer/job/P5G_AMF_SMF_UPF_Deployer/'
 jenkins_url_system = 'http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/'
 jenkins_url_customized = f'https://pats-patsexecutor.{NAT_IP}.nip.io'
@@ -559,9 +559,9 @@ def extract_build_data_system():
             build_data['build_timestamp'] = build_details_element.text.strip()
         else:
             build_data['build_timestamp'] = 'No Items Received'
-        build_data['build_link'] = jenkins_url_regression + build_data['build_number'] + '/'
+        build_data['build_link'] = jenkins_url_system + build_data['build_number'] + '/'
         build_number = build_data['build_number'].lstrip('#')
-        build_data['pats_report'] = f"{jenkins_url_regression}{build_number}/PATSReport/"
+        build_data['pats_report'] = f"{jenkins_url_system}{build_number}/PATS_20Cucumber_20Report/"
         build_history_data.append(build_data)
     return build_history_data
 

@@ -1,30 +1,93 @@
 [
     {
+        "build_number": "#68",
+        "build_status": "Success",
+        "build_timestamp": "Sep 14, 2023, 4:17 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#68/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/68/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#67",
+        "build_status": "Aborted",
+        "build_timestamp": "Sep 14, 2023, 3:50 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#67/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/67/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#66",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 14, 2023, 2:53 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#66/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/66/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#65",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 14, 2023, 2:52 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#65/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/65/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#60",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 14, 2023, 2:36 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#60/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/60/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#59",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 14, 2023, 2:36 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#59/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/59/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#57",
+        "build_status": "Success",
+        "build_timestamp": "Sep 14, 2023, 12:25 PM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#57/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/57/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#56",
+        "build_status": "Success",
+        "build_timestamp": "Sep 14, 2023, 11:53 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#56/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/56/PATS_20Cucumber_20Report/"
+    },
+    {
+        "build_number": "#55",
+        "build_status": "Failed",
+        "build_timestamp": "Sep 14, 2023, 11:46 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#55/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/55/PATS_20Cucumber_20Report/"
+    },
+    {
         "build_number": "#54",
         "build_status": "Success",
         "build_timestamp": "Sep 12, 2023, 12:37 PM",
-        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#54/",
-        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/54/PATSReport/"
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#54/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/54/PATS_20Cucumber_20Report/"
     },
     {
         "build_number": "#53",
         "build_status": "Failed",
         "build_timestamp": "Sep 12, 2023, 12:05 PM",
-        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#53/",
-        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/53/PATSReport/"
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#53/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/53/PATS_20Cucumber_20Report/"
     },
     {
         "build_number": "#52",
         "build_status": "Failed",
         "build_timestamp": "Sep 12, 2023, 11:32 AM",
-        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#52/",
-        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/52/PATSReport/"
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#52/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/52/PATS_20Cucumber_20Report/"
     },
     {
         "build_number": "#48",
         "build_status": "Failed",
         "build_timestamp": "Sep 12, 2023, 9:14 AM",
-        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#48/",
-        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/48/PATSReport/"
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/#48/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_System_Test_BV/48/PATS_20Cucumber_20Report/"
     }
 ]

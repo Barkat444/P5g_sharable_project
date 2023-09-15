@@ -1,9 +1,37 @@
 [
     {
-        "build_number": "#154",
+        "build_number": "#5",
         "build_status": "Success",
-        "build_timestamp": "Sep 13, 2023, 6:22 AM",
-        "build_link": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/#154/",
-        "pats_report": "http://eig-jenkins.cisco.com:9500/job/AMF-SMF-Regression/154/PATSReport/"
+        "build_timestamp": "Sep 14, 2023, 8:42 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/#5/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/5/PATSReport/"
+    },
+    {
+        "build_number": "#4",
+        "build_status": "Success",
+        "build_timestamp": "Sep 14, 2023, 7:59 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/#4/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/4/PATSReport/"
+    },
+    {
+        "build_number": "#3",
+        "build_status": "Success",
+        "build_timestamp": "Sep 14, 2023, 7:57 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/#3/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/3/PATSReport/"
+    },
+    {
+        "build_number": "#2",
+        "build_status": "Success",
+        "build_timestamp": "Sep 14, 2023, 7:52 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/#2/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/2/PATSReport/"
+    },
+    {
+        "build_number": "#1",
+        "build_status": "Success",
+        "build_timestamp": "Sep 14, 2023, 7:42 AM",
+        "build_link": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/#1/",
+        "pats_report": "http://eig-jenkins.cisco.com:9500/job/P5G_Regression/1/PATSReport/"
     }
 ]

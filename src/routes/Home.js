@@ -6,12 +6,11 @@ function Home() {
   const [showSecondText, setShowSecondText] = useState(false);
 
   useEffect(() => {
-    // Start showing the second text after a delay
     const timer = setTimeout(() => {
       setShowSecondText(true);
-    }, 2000); // Adjust the delay (in milliseconds) as needed
+    }, 2000); 
 
-    return () => clearTimeout(timer); // Clear the timer if the component unmounts
+    return () => clearTimeout(timer);
   }, []);
 
   return (
