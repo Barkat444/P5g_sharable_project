@@ -14,6 +14,7 @@ import Navbar from "./components/Navbar";
 import "./App.css";
 import Testing from "./routes/Testing";
 import TBaaS from "./routes/TBaas";
+import Support from "./routes/Support";
 
 const AppLayout = () => (
   <>
@@ -52,6 +53,10 @@ const router = createBrowserRouter([
         path: "reports",
         element: <Reports />,
       },
+      {
+        path: "support",
+        element: <Support />,
+      }
     ],
   },
 ]);
